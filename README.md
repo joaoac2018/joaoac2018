@@ -11,8 +11,7 @@
 - :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoac2018)](https://github.com/joaoac2018)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-paulo-cruz-94988284/](www.linkedin.com/in/joão-paulo-cruz-94988284/)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-cruz-94988284/)
 - Thanks for visiting.
 - Enjoy it!! o/
 
